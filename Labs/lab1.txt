@@ -1,0 +1,9 @@
+cd
+mkdir
+mv
+ls
+mv
+cp
+cat filename.txt | grep "string"
+ssh
+rm  -r dir
