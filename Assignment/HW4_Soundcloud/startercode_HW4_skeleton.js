@@ -51,8 +51,6 @@ function display_songs(data) {
 						<td>\
 						<button class="glyphicon glyphicon-flash btn-lng btn-info" id = "add_to_playlist" > </button>\
 						</td>\
-						<td>\
-						</td>\
 						<td >\
 						<span id = "artist_name">artist name</span>\
 						</td>\
